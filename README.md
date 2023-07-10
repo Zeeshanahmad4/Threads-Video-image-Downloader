@@ -1,4 +1,7 @@
-# Threads Video and Image Downloader
+<div style="text-align: center;">
+  <h1>Threads Video and Image Downloader</h1>
+</div>
+
 
 Welcome to the GitHub repository of Threads Video and Image Downloader, a robust Web app and Android App designed to download videos and images from the novel Threads platform by Meta.
 
